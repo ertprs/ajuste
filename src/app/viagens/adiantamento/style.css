@@ -1,0 +1,19 @@
+.principal {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    outline: 0;
+  }
+  
+  html, body {
+    min-height: 100%;
+  }
+  
+  
+  * {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+  }

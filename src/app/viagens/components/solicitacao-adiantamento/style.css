@@ -1,0 +1,6 @@
+.react-daterange-picker__wrapper {
+    color: 'rgba(0, 0, 0, 0.54)';
+    font-size: 14px;
+    border-bottom: thin solid gray !important;
+    border: 0;
+}

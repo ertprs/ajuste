@@ -1,0 +1,13 @@
+html,
+body,
+#root {
+  height: 100% !important;
+  overflow-y: auto;
+}
+
+body.swal2-height-auto{
+  height: 100% !important;
+}
+::-webkit-scrollbar {
+  display: none;
+}
